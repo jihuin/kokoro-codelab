@@ -17,3 +17,5 @@ set -e
 # in the job configuration.
 cd "${KOKORO_ARTIFACTS_DIR}/github/kokoro-codelab"
 ./build.sh
+
+git clone https://github.com/jihuin/kokoro-codelab.git
