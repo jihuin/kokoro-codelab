@@ -6,6 +6,6 @@ echo "JAVA_HOME=$JAVA_HOME"
 
 gpg --version
 gpg2 --version
-sudo apt-get install gpg
+sudo apt-get install gnupg2
 gpg --version
 gpg2 --version
